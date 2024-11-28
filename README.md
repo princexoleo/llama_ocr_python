@@ -1,4 +1,4 @@
-# Document Information Extractor
+# Building a Bilingual Document Information Extractor with Llama Vision and Streamlit
 
 ![Cover Image](https://raw.githubusercontent.com/princexoleo/llama_ocr_python/main/sample_test_images/Create%20a%20cover%20image%20that%20describe%20the%20OCR%20application%20with%20Llama%20vision%20Language%20Model%2C%20futureistic%20(1).jpeg)
 
